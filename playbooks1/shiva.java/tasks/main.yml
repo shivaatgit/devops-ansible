@@ -1,4 +1,0 @@
----
-# tasks file for shiva.java
-  - name: Installing Java
-    package: name=java-1.7.0-openjdk state=present
